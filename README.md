@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DenBerez
-- 👀 I’m interested in ... Web Design & Machine Learning
-- 🌱 I’m currently learning ... JavaScript, HTML, CSS, React
+- 👀 I’m interested in ... Full-Stack and Front-End Engineer Positions
 - 💞️ I’m looking to collaborate on ... Beginner Projects
 - 📫 How to reach me ... dennis.m.berezin@gmail.com
 
