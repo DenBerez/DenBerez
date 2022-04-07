@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Dennis
 - 👀 I’m interested in ... Full-Stack and Front-End Engineer Positions
-- 💞️ I’m looking to collaborate on ... Beginner Projects
-- 📫 How to reach me ... dennis.m.berezin@gmail.com
+- 📫 How to reach me ... <a href=https://www.linkedin.com/in/dennis-berezin>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ## Languages and Tools
 
