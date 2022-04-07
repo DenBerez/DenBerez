@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Dennis
 - 👀 I’m interested in ... Full-Stack and Front-End Engineer Positions
-- 📫 How to reach me ... <a href=https://www.linkedin.com/in/dennis-berezin>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a><a href=https://mail.google.com/mail/?view=cm&fs=1&to=dennis.m.berezin@gmail.com>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+- 📫 How to reach me ... <a href="https://www.linkedin.com/in/dennis-berezin">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=dennis.m.berezin@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ## Languages and Tools
 
